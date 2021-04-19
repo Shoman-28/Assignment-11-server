@@ -1,8 +1,11 @@
-# complete-website-server-Shoman-28
-https://github.com/Porgramming-Hero-web-course/complete-website-server-Shoman-28
-https://github.com/Porgramming-Hero-web-course/complete-website-server-Shoman-28.git
+
+# full-stack-server-Shoman-28(Food Corner [Git link](https://github.com/Porgramming-Hero-web-course/full-stack-server-Shoman-28))
 
 
+
+
+#  I have submited server site in  my personal git repo., because of I face an error that include at bottom.
+# I try to solve but I failed.   
 
 Ideal@DESKTOP-JN7493H MINGW64 /d/pograming-hero/file-1/Assignment-12/Electronice-Services/server-site (main)
 $ git push -u origin main
